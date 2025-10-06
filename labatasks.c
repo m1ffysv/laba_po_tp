@@ -9,8 +9,8 @@ int main(){
     scanf("%d", &numb1);
     scanf("%d", &numb2);
     int plus;
-    plus = numb1 + numb2;
-    printf("%d + %d = %d\n", numb1, numb2, plus);
+    plus = numb1 - numb2;
+    printf("%d - %d = %d\n", numb1, numb2, plus);
     return 0;
 
 
